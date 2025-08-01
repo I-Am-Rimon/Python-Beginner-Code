@@ -1,0 +1,6 @@
+a = input("Enter a number:")
+print("The Number you entered :" ,a)
+b = input("Enter another number: ")
+print("The another number you entered: " ,b)
+mul = int(a) * int(b)
+print ("Multiplication is : " ,mul)
