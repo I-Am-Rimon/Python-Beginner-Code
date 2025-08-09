@@ -11,4 +11,5 @@ b = 10
 c = a*b
 print(c)
 type(c)
+
 print(type(c))
